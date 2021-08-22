@@ -11,12 +11,12 @@ high incidence rate of diabetes. Several constraints were placed on the selectio
 In particular, all patients here are females at least 21 years old of Pima Indian heritage.
 The dataset  can be downloaded from Kaggle: https://www.kaggle.com/uciml/pima-indians-diabetes-database
 
-We have 768 instances and the following 8 attributes:
+In this dataset we have 768 instances and the following 8 attributes:
 - Number of times pregnant
 - Glucose concentration
 - Diastolic blood pressure in mm Hg 
 - Triceps skin fold thickness in mm 
 - 2-Hour serum insulin in mu U/ml 
 - Body mass index measured as weight in kg/(height in m)^2 
-- Diabetes pedigree function (pedi)
-- Age in years (age)
+- Diabetes pedigree function 
+- Age in years 
