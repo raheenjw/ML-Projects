@@ -1,3 +1,4 @@
+![stock](https://user-images.githubusercontent.com/77233162/130778281-f43e3dda-9dcf-40ed-99ed-9f7081a561a8.jpg)
 
 ## Project Overview
 
