@@ -1,12 +1,12 @@
 ![credit card](https://user-images.githubusercontent.com/77233162/132944291-bea6e82d-caed-48fa-9f5d-eb75366f123a.jpg)
 
-# Introduction 
+## Introduction 
 When we make any transaction while purchasing any product online, a good amount of people prefer credit cards. The credit limit in credit cards sometimes helps us 
 in making purchases even if we don’t have the amount at that time. But these features are often misused by cyber attackers. It is important that credit card companies 
 are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase. Here comes the need for a system that
 can track the pattern of all the transactions and if any pattern is abnormal then the transaction should be aborted.
 
-# Project Overview
+## Project Overview
 
 In this project,we are going to build a model for detecting fradulent credit card activities. Using a dataset of of nearly 284,807 credit card transactions and 
 multiple unsupervised anomaly detection algorithms, we are going to identify transactions with a high probability of being credit card fraud. We will build and 
@@ -15,7 +15,7 @@ deploy the following two machine learning algorithms:
 - Local Outlier Factor (LOF)
 - Isolation Forest Algorithm
 
-# Data Overview
+## Data Overview
 
 The data fort his project can be downloaded from kaggle: https://www.kaggle.com/mlg-ulb/creditcardfraud
 
