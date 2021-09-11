@@ -1,3 +1,5 @@
+![credit card](https://user-images.githubusercontent.com/77233162/132944291-bea6e82d-caed-48fa-9f5d-eb75366f123a.jpg)
+
 # Introduction 
 When we make any transaction while purchasing any product online, a good amount of people prefer credit cards. The credit limit in credit cards sometimes helps us 
 in making purchases even if we don’t have the amount at that time. But these features are often misused by cyber attackers. It is important that credit card companies 
