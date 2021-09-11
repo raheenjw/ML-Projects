@@ -1,4 +1,6 @@
- ## Introduction
+![diabetes](https://user-images.githubusercontent.com/77233162/132944381-5b5e716c-1c4c-48ca-9fbe-88b7d32e79f8.jpeg)
+
+## Introduction
 Data mining and machine learning is helping medical professionals make diagnosis easier by bridging the gap between huge data sets and human knowledge.
 We can begin to apply machine learning techniques for classification in a dataset that describes a population that is under a high risk of the onset of diabetes.
 Given the medical data we can gather about people, we should be able to make better predictions on how likely a person is to suffer the onset of diabetes,
