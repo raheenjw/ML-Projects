@@ -1,3 +1,4 @@
+![dna-3539309__340](https://user-images.githubusercontent.com/77233162/132988567-d18ed878-e525-45e4-8475-01976f3db854.jpg)
 
 
 ## Introduction
