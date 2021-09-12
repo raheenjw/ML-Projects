@@ -1,3 +1,5 @@
+![game](https://user-images.githubusercontent.com/77233162/132989197-ff89bae0-fa0f-4d4c-9a85-2832424215c1.jpeg)
+
 ## Project Overview
 In this project, a dataset of about 81312 rows and 20 columns was given regarding the reviews of various board games available. A supervised machine learning model 
 will be trained and evaluated to predict the ratings given to a particular board game based on several features of the datasets. Supervised machine learning models like
