@@ -5,6 +5,9 @@
 
 This repository consists of projects that I have done for academic and self-learning goals.
 
+Contact: raheenjunaid@gmail.com
+
+
 ## Contents
 1. [Board Game Review Prediction](https://github.com/raheenjw/ML-Projects/tree/main/Board%20Game%20Review%20Prediction)
 2. [Credit Card Fraud Detection](https://github.com/raheenjw/ML-Projects/tree/main/Credit%20Card%20Fraud%20Detection)
@@ -14,4 +17,3 @@ This repository consists of projects that I have done for academic and self-lear
 
 
 
-I can be contacted via raheenjunaid@gmail.com
