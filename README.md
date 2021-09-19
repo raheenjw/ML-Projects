@@ -5,8 +5,6 @@
 
 This repository consists of projects that I have done for academic and self-learning goals.
 
-Contact: raheenjunaid@gmail.com
-
 
 ## Contents
 1. [Board Game Review Prediction](https://github.com/raheenjw/ML-Projects/tree/main/Board%20Game%20Review%20Prediction)
@@ -17,3 +15,4 @@ Contact: raheenjunaid@gmail.com
 
 
 
+For any contact mail me at raheenjunaid@gmail.com
