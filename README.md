@@ -15,4 +15,4 @@ This repository consists of projects that I have done for academic and self-lear
 
 
 
-For any contact mail me at raheenjunaid@gmail.com
+For contact mail me at raheenjunaid@gmail.com
