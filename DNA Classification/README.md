@@ -10,7 +10,6 @@ This project is based on classifying DNA sequences as promoter or non promoter u
 - KNN
 - MLP Classifier
 - Decision trees and Random Forests
-- Naive Bayes
 - SVC
 
 ## Data Overview
